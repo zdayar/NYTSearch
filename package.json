@@ -13,10 +13,6 @@
     },
     "author": "Zeynep Dayar",
     "license": "ISC",
-    "devDependencies": {
-        "concurrently": "^3.5.0",
-        "nodemon": "^1.11.0"
-    },
     "dependencies": {
         "axios": "^0.16.2",
         "body-parser": "^1.17.2",
@@ -27,6 +23,8 @@
         "mongodb": "^2.2.16",
         "morgan": "^1.7.0",
         "querystring": "^0.2.0",
-        "util": "^0.10.3"
+        "util": "^0.10.3",
+        "concurrently": "^3.5.0",
+        "nodemon": "^1.11.0"
     }
 }
